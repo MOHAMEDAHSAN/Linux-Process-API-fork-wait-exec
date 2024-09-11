@@ -43,6 +43,9 @@ int main(void)
 	return 0; }
 ~~~
 
+<br>
+<br>
+
 ## OUTPUT
 ![322059149-fc4a585f-bf4c-46e2-8b28-bf0834b838b5](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/277a5ef9-b0c2-4e5b-ad59-4a415db2c31c)
 
