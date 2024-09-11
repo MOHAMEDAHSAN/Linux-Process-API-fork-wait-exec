@@ -72,6 +72,10 @@ exit(0);}
 <br>
 <br>
 
+<br>
+<br>
+
+
 ## OUTPUT
 
 ![322059342-77e05b6f-d0c2-43ee-be5c-16bd0e20cd63](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/88cf0f5e-c8fc-4341-b71a-c87c6979fdf1)
